@@ -1,0 +1,12 @@
+<orders>
+    <order>
+        <id>1</id>
+        <item>Book</item>
+        <quantity>2</quantity>
+    </order>
+    <order>
+        <id>2</id>
+        <item>Pen</item>
+        <quantity>10</quantity>
+    </order>
+</orders>
